@@ -1,5 +1,40 @@
 ### Hi there 👋
 
+I'm Deepak Ram, Fullstack developer.
+
+## Languages and Tools:
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+   <img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
+</p>
+
+
+<img alt="contribution" src="https://github.com/Deepak0844/Deepak0844/blob/output/github-contribution-grid-snake.svg" />
+
+
+[![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=Deepak0844&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepak0844&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak0844&layout=compact&theme=radical&langs_count=6)
+
+<h2 align="left">Connect with me </h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/deepak-ram-r-355972212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+</p>
+
+
 <!--
 **Deepak0844/Deepak0844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
